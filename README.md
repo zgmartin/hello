@@ -15,7 +15,7 @@ mobile apps, arch linux os, code design, databases, finance, stock market, compu
 
 ###MATHEMATICAL INTERESTS:
 
-####mathematical interests: 
+####math interests: 
 linear algebra, algebra, analysis, probability, finance, data analysis
 
 

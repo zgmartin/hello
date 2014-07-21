@@ -1,5 +1,5 @@
 
-##ABOUT ME:
+##About me:
 
 Welcome to personal github account. I am glad you are interested enough to be here. I am a programmer/mathematician who enjoys writing well designed clean code. My coding phylosophy is simmilar to the phylosophy of the arch linux community (https://wiki.archlinux.org/index.php/The_Arch_Way). Always striving to write high quality code is my personal goal. Designing clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. In addition to coding, I also value the ideals of social collaboration. I have benefited immensely from the the code of others, and my final mission is to demonstrate the same kindness and help through the sharing of my own work. Thanks again for visiting me here. I wish you a safe and enjoyable journey throughout this strange and interesting world called life.
 
@@ -7,25 +7,19 @@ Welcome to personal github account. I am glad you are interested enough to be he
 Sat, July 19, 2014
 
 
-###CODING INTERESTS:
+###Interests
 
-####coding interests: 
+####Coding:
 mobile apps, arch linux os, code design, databases, finance, stock market, computational geometry, machine learning
 
-
-###MATHEMATICAL INTERESTS:
-
-####math interests: 
+####Math:
 linear algebra, algebra, analysis, probability, finance, data analysis
 
-
-###HOBBIES:
-
-####personal hobbies: 
+####HOBBIES:
 cycling, piano, calisthenics, reading(science fiction), muay thai, soccer, ice hockey
 
 
-###BOOK RECS:
+###Book recs:
 
 ####Sci fi:
 Jurassic Park, Behold The Man, A Sound Of Thunder, Contact, Replay, Colossus

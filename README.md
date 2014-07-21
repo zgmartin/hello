@@ -10,25 +10,32 @@ Sat, July 19, 2014
 
 CODING INTERESTS:
 
-coding interests: mobile apps, arch linux os, code design, databases, finance, stock market, computational geometry, machine learning
+coding interests: 
+mobile apps, arch linux os, code design, databases, finance, stock market, computational geometry, machine learning
 
 
 MATHEMATICAL INTERESTS:
 
-mathematical interests: linear algebra, algebra, analysis, probability, finance, data analysis
+mathematical interests: 
+linear algebra, algebra, analysis, probability, finance, data analysis
 
 
 HOBBIES:
 
-personal hobbies: cycling, piano, calisthenics, reading(science fiction), muay thai, soccer, ice hockey
+personal hobbies: 
+cycling, piano, calisthenics, reading(science fiction), muay thai, soccer, ice hockey
 
 
 BOOK RECS:
 
-Sci fi: Jurassic Park, Behold The Man, A Sound Of Thunder, Contact, Replay, Colossus
+Sci fi:
+Jurassic Park, Behold The Man, A Sound Of Thunder, Contact, Replay, Colossus
 
-Science: The Cosmic Code, Dreams of Reason, Physics Giancoli
+Science: 
+The Cosmic Code, Dreams of Reason, Physics Giancoli
 
-Finance: Beat The Market, Beat The Dealer
+Finance: 
+Beat The Market, Beat The Dealer
 
-Math: Linear Algebra: and its applications D. Lay, Understanding Analysis S. Abbott, Practical Analysis in One Variable, History of Mathematics: an introduction, Journey Through Genius, Proof Logic and Conjecture: the mathematicians toolbox  
+Math: 
+Linear Algebra: and its applications D. Lay, Understanding Analysis S. Abbott, Practical Analysis in One Variable, History of Mathematics: an introduction, Journey Through Genius, Proof Logic and Conjecture: the mathematicians toolbox  

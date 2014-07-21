@@ -9,26 +9,26 @@ Sat, July 19, 2014
 
 ###Interests
 
-####Coding:
+Coding:
 mobile apps, arch linux os, code design, databases, finance, stock market, computational geometry, machine learning
 
-####Math:
+Math:
 linear algebra, algebra, analysis, probability, finance, data analysis
 
-####HOBBIES:
+Hobbies:
 cycling, piano, calisthenics, reading(science fiction), muay thai, soccer, ice hockey
 
 
 ###Book recs:
 
-####Sci fi:
+Sci fi:
 Jurassic Park, Behold The Man, A Sound Of Thunder, Contact, Replay, Colossus
 
-####Science: 
+Science: 
 The Cosmic Code, Dreams of Reason, Physics Giancoli
 
-####Finance: 
+Finance: 
 Beat The Market, Beat The Dealer
 
-####Math: 
+Math: 
 Linear Algebra: and its applications D. Lay, Understanding Analysis S. Abbott, Practical Analysis in One Variable, History of Mathematics: an introduction, Journey Through Genius, Proof Logic and Conjecture: the mathematicians toolbox  

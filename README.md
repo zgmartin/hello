@@ -13,7 +13,7 @@ Coding:
 mobile apps, arch linux os, code design, databases, finance, stock market, computational geometry, machine learning
 
 Math:
-linear algebra, algebra, analysis, probability, finance, data analysis
+linear algebra, algebra, analysis, proofs, probability, finance, data analysis
 
 Hobbies:
 cycling, piano, calisthenics, reading(science fiction), muay thai, soccer, ice hockey

@@ -7,7 +7,7 @@ Welcome to personal github account. I am glad you are interested enough to be he
 Sat, July 19, 2014
 
 
-###Interests
+###Interests:
 
 Coding:
 mobile apps, arch linux os, code design, databases, finance, stock market, computational geometry, machine learning

@@ -2,7 +2,6 @@
 <img src = "./me.png">
 
 9:22, Personal note: When I was a little kid my mother told me not to stare into the sun, so once when I was six, I did. At first the brightness was overwhelming, but I had seen that before. I kept looking, forcing myself not to blink, and then the brightness began to dissolve. My pupils shrunk to pinholes and everything came into focus and for a moment I understood.
-
 -Pi
 
 Welcome to personal github account.

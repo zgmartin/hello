@@ -11,14 +11,14 @@ Welcome to personal github account.
 I am a programmer/mathematician who enjoys writing clean code.
 My coding philosophy is similar to the philosophy of the arch Linux community (https://wiki.archlinux.org/index.php/The_Arch_Way). 
 
-Always striving to write high quality code is my personal goal. Clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. 
+Always striving to write high quality code is my personal goal of mine. Clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. 
 
 In addition to coding, I also value the ideals of social collaboration. I have benefited immensely from the the code of others, and I would like to demonstrate the same kindness through the sharing of my own work. 
 
 Thanks again for visiting me here.
 
 -Zachary Gilmartin
-Sat, July 19, 2014
+Sat. July 19, 2014
 
 
 ###Interests:

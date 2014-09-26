@@ -16,7 +16,7 @@ Sat, July 19, 2014
 ###Interests:
 
 Coding:
-mobile apps, arch linux os, code design, databases, finance, stock market, computational geometry, machine learning
+algorithms, machine learning, computational geometry, arch linux os, stock market
 
 Math:
 linear algebra, algebra, analysis, proofs, probability, finance, data analysis
@@ -26,6 +26,31 @@ cycling, piano, calisthenics, reading(science fiction), muay thai, soccer, ice h
 
 
 ###Book recs:
+
+#####Math: 
+Linear Algebra (Lay)
+Elemests of Number Theory (Stillwell)
+Understanding Analysis (Abbott)
+Practical Analysis (Estep)
+History of Mathematics (Burton)
+Journey Through Genius (Dunham) 
+Proof Logic and Conjecture (Wolf)  
+
+#####Comp Sci:
+Pattern Recognition (Bishop)
+Opreating Systems (Stallings)
+Linux Command Line (Shotts)
+Computation Geometry (Berg, Orourke, Devadoss)
+Absolute Java (Savitch)
+Algorithms (Skiena)
+C++ Primer (Prata)
+The C Programming Languahge (Ritchie)
+Mips Assembly Language (Britton)
+Computer Organization and Design (Patterson)
+Computer Architecture (Patterson)
+Game Engine Architechture (Gregory)
+Real Time Collision Detection (Ericson)
+
 
 #####Sci fi:
 Jurassic Park (Crichton) 
@@ -44,11 +69,3 @@ Physics (Giancoli)
 #####Finance: 
 Beat The Market(Thorp)
 Beat The Dealer(Thorp)
-
-#####Math: 
-Linear Algebra (Lay)
-Understanding Analysis (Abbott)
-Practical Analysis (Estep)
-History of Mathematics (Burton)
-Journey Through Genius (Dunham) 
-Proof Logic and Conjecture (Wolf)  

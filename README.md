@@ -10,28 +10,35 @@
 No one shall expel us from the Paradise that Guido has created.
 
 I am a programmer/mathematician who enjoys writing clean code.
-My coding philosophy is similar to the philosophy of the [Arch Linux community] (https://wiki.a.]rchlinux.org/index.php/The_Arch_Way). 
+My coding philosophy is similar to the philosophy of the [Arch Linux community] (https://wiki.archlinux.org/index.php/The_Arch_Way). 
 
 Always striving to write high quality code is my personal goal of mine. Clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. 
 
 In addition to coding, I also value the ideals of social collaboration. I have benefited immensely from the the code of others, and I would like to demonstrate the same kindness through the sharing of my own work. 
 
-Thanks again for visiting me here.
+##More About Me:
+I became interested in mathematical modeling through a documentary I saw on the Science Channel about the MIT blackjack team beating Vegas with some techniques derived from Edward O. Thorp book Beat the Dealer. It was fascinating to watch three people take control over an entire system through the use of math. After that point I was hooked.
 
--Zachary Gilmartin
-Sat. July 19, 2014
+Later, I took an algorithms course taught by professor Steve Skiena. He would reveal a book he wrote called Calculated Bets, which discussed his journey to conquer the betting system of jai alai. Calculated Bets demonstrated to me the power of combining math models with computers.
+
+Further, I became interested in computer automation and pattern recognition through the Machine Learning course I took with professor Luiz Ortiz. I learned some valuable techniques for data classification and pattern recognition, and hope to apply them within this ever increasing world of data.
+
+With the cost of memory decreasing and the amount of data becoming more pervasive, I'm interested in building models that automate the process of decision making through the combined use of mathematics and computers.
+
+note: 
+[Ortiz](http://www3.cs.stonybrook.edu/~leortiz/) was mentored by [Patrick Winston](https://www.youtube.com/watch?v=uylHeDdlMrc) (head of the AI lab at MIT), who was mentored by [Marvin Minsky](https://www.youtube.com/watch?v=SNWVvZi3HX8) (father of AI), which I heard about from videos about [Richard Feynman](https://www.youtube.com/watch?v=Fzg1CU8t9nw) by [Danny Hillis](https://www.youtube.com/watch?v=oUUmcXfBetI) and in an interview with [Michael Crichton](https://www.youtube.com/watch?v=9QXota4sh7Q) who wrote my favorite book Jurassic Park, whose character Ian Malcolm was inspired by the author [Heinz Pagels](http://en.wikipedia.org/wiki/Heinz_Pagels), whose book Dreams of Reason was about modeling reality with computers, which also influenced me.
 
 
 ###Interests:
 
 Coding:
-algorithms, machine learning, computational geometry, arch Linux, stock market
+Algorithms, Machine Learning, Computational Geometry, Linux, Gambling Systems
 
 Math:
-linear algebra, algebra, analysis, proofs, probability, finance, data analysis
+Linear Algebra, Analysis, Proofs, Probability
 
 Hobbies:
-cycling, piano, calisthenics, reading(science fiction), muay thai, soccer, ice hockey
+Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 
 
 ###Book recs:

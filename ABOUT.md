@@ -1,0 +1,9 @@
+﻿I became interested in mathematical modeling through a documentary I saw on the Science Channel about the MIT blackjack team beating Vegas with some techniques derived from Edward O. Thorp book Beat the Dealer. It was fascinating to watch three people take control over an entire system through the use of math. After that point I was hooked.
+
+Later, I took an algorithms course taught by professor Steve Skiena. He would reveal a book he wrote called Calculated Bets, which discussed his journey to conquer the betting system of jai alai. Calculated Bets demonstrated to me the power of combining math models with computers.
+
+Further, I became interested in computer automation and pattern recognition through the Machine Learning course I took with professor Luiz Ortiz. I learned some valuable techniques for data classification and pattern recognition, and hope to apply them within this ever increasing world of data.
+
+With the cost of memory decreasing and the amount of data becoming more pervasive, I'm interested in building models that automate the process of decision making through the combined use of mathematics and computers.
+
+[note: Ortiz was mentored by Patrick Winston (current head of the AI lab at MIT), who was mentored by Marvin Minsky (father of AI), which I heard about from videos about Richard Feynman by Danny Hillis and in an interview with Michael Crichton who wrote my favorite book Jurassic Park, whose character Ian Malcolm was inspired by the author Heinz Pagels, whose book Dreams of Reason was about modeling reality with computers, which also influenced me.]

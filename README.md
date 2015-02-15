@@ -1,15 +1,16 @@
 ##About me:
 
-9:22, Personal note: When I was a little kid my mother told me not to stare into the sun, so once when I was six, I did. At first the brightness was overwhelming, but I had seen that before. I kept looking, forcing myself not to blink, and then the brightness began to dissolve. My pupils shrunk to pinholes and everything came into focus and for a moment I understood.
+>9:22, Personal note: When I was a little kid my mother told me not to stare into the sun, so once when I was six, I did. At first the brightness was overwhelming, but I had seen that before. I kept looking, forcing myself not to blink, and then the brightness began to dissolve. My pupils shrunk to pinholes and everything came into focus and for a moment I understood.
 
--Pi
+>-Pi
 
 <img src = "./me.png">
 
-Welcome to personal github account.
+
+No one shall expel us from the Paradise that Guido has created.
 
 I am a programmer/mathematician who enjoys writing clean code.
-My coding philosophy is similar to the philosophy of the arch Linux community (https://wiki.archlinux.org/index.php/The_Arch_Way). 
+My coding philosophy is similar to the philosophy of the [Arch Linux community] (https://wiki.a.]rchlinux.org/index.php/The_Arch_Way). 
 
 Always striving to write high quality code is my personal goal of mine. Clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. 
 

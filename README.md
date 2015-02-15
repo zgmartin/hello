@@ -44,8 +44,9 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ###Book recs:
 
 #####Math: 
-Linear Algebra (Lay)
-Elemests of Number Theory (Stillwell)
+![img](https://www.google.com/search?q=linear+algebra+lay&client=ubuntu&hs=FG9&channel=fs&source=lnms&tbm=isch&sa=X&ei=WhjhVK2oF4aigwSYuoDQDw&ved=0CAkQ_AUoAg&biw=1280&bih=803#imgdii=_&imgrc=1qTb1k4T7q6szM%253A%3BTQrus066TpailM%3Bhttp%253A%252F%252Fecx.images-amazon.com%252Fimages%252FI%252F41besOHLcpL.jpg%3Bhttp%253A%252F%252Fwww.amazon.com%252FLinear-Algebra-Its-Applications-Edition%252Fdp%252F0321385179%3B400%3B500)
+Linear Algebra
+Elements of Number Theory (Stillwell)
 Understanding Analysis (Abbott)
 Practical Analysis (Estep)
 History of Mathematics (Burton)

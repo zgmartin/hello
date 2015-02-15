@@ -17,11 +17,11 @@ Always striving to write high quality code is my personal goal of mine. Clean co
 In addition to coding, I also value the ideals of social collaboration. I have benefited immensely from the the code of others, and I would like to demonstrate the same kindness through the sharing of my own work. 
 
 ##More About Me:
-I became interested in mathematical modeling through a documentary I saw on the Science Channel about the MIT blackjack team beating Vegas with some techniques derived from Edward O. Thorp book Beat the Dealer. It was fascinating to watch three people take control over an entire system through the use of math. After that point I was hooked.
+I became interested in mathematical modeling through a [documentary](https://www.youtube.com/watch?v=QflVqavHHM0) I saw on the Science Channel about the MIT blackjack team beating Vegas with some techniques derived from [Edward O. Thorp](http://en.wikipedia.org/wiki/Edward_O._Thorp) book [Beat the Dealer](http://www.amazon.com/Beat-Dealer-Winning-Strategy-Twenty-One/dp/0394703103). It was fascinating to watch three people take control over an entire system through the use of math. After that point I was hooked.
 
-Later, I took an algorithms course taught by professor Steve Skiena. He would reveal a book he wrote called Calculated Bets, which discussed his journey to conquer the betting system of jai alai. Calculated Bets demonstrated to me the power of combining math models with computers.
+Later, I took an algorithms course taught by professor [Steve Skiena](http://www3.cs.stonybrook.edu/~skiena/). He would reveal a book he wrote called [Calculated Bets](http://www3.cs.stonybrook.edu/~skiena/jaialai/), which discussed his journey to conquer the betting system of Jai Alai. Calculated Bets demonstrated to me the power of combining math models with computers.
 
-Further, I became interested in computer automation and pattern recognition through the Machine Learning course I took with professor Luiz Ortiz. I learned some valuable techniques for data classification and pattern recognition, and hope to apply them within this ever increasing world of data.
+Further, I became interested in computer automation and pattern recognition through the Machine Learning course I took with professor [Luiz Ortiz](http://www3.cs.stonybrook.edu/~leortiz/). I learned some valuable techniques for data classification and pattern recognition, and hope to apply them within this ever increasing world of data.
 
 With the cost of memory decreasing and the amount of data becoming more pervasive, I'm interested in building models that automate the process of decision making through the combined use of mathematics and computers.
 
@@ -41,14 +41,14 @@ Hobbies:
 Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 
 
-###Book recs:
+###Book Recommendations:
 
 #####Math: 
+######Linear Algebra
 ![img](http://ecx.images-amazon.com/images/I/41besOHLcpL.jpg)
-Linear Algebra
-Elements of Number Theory (Stillwell)
-Understanding Analysis (Abbott)
-Practical Analysis (Estep)
+Analysis
+![img](http://ecx.images-amazon.com/images/I/41rKny566IL.jpg)
+![img](http://ecx.images-amazon.com/images/I/41WthZ5-oiL._SY344_BO1,204,203,200_.jpg)
 History of Mathematics (Burton)
 Journey Through Genius (Dunham) 
 Proof Logic and Conjecture (Wolf)  

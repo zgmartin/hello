@@ -47,7 +47,7 @@ Calisthenics, Cycling, Kick-boxing, Hockey, Science Fiction, Piano
 
 Down the rabbit hole we go.
 
-Here's some advice on how to become a data programmer. My goal is to reduce your time within the search space, and direct you to your goals faster.
+Here's some advice on how to become a data programmer, and more importantly a better problem solver. My goal is to reduce your time within the search space, and direct you to your goals faster.
 
 
 ###Problem Solving
@@ -100,6 +100,8 @@ This book essentially teaches you techniques on how to become a better problem s
 
 Try to solve as many problems you can from this book from this book. If you don't believe me, then believe [Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is the book they recommend people read before they try to work there.
 
+Read chapter 10! It is all about how to formulate problem and devise strategies to execute on solving them. 
+
 I can't stress to you how much this book has influenced me. It completely changed my approach to solving programming problems. A company even flew me out to their office in Palo Alto California after I solved a problem by referencing this book.
 
 
@@ -111,7 +113,7 @@ Use python for all your programming. Why?
 * On the verge of becoming a standard.
 * More people are using for their projects.
 * Integrates with C for constant speed performance.
-* [Ipython]((http://ipython.org/) ) is great for learning and test ideas.
+* [Ipython](http://ipython.org/) is great for learning and test ideas.
 
 [intro](http://www.swaroopch.com/notes/python/)
 [interm](http://www.tutorialspoint.com/python/index.htm)
@@ -124,11 +126,9 @@ Every company is running some type of Linux machine so dive, and fire up the [co
 
 [Ipython](http://ipython.org/) is a great place to experiment new ideas and understand and learn how to use code written by other people. The real power of ipython is its ability to allow you to easily access the documentation of code from other projects. For example if you want to understand how math works within python.
 
-`import math` accesses math from standard library file
-
-`math?` what math does
-
-`math.[Tab key]` what function math has
+* accesses math from file: `import math`
+* what math: does `math?`
+* what function math has: `math.[Tab key]`
 
 [Sublime](http://www.sublimetext.com/) is a perfect text editor with simple and powerful features. I particularly enjoy using the multi line editing, built automation of text typing, and code highlighting.
 

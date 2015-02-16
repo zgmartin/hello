@@ -206,6 +206,7 @@ Problem Solving
 All the great problem solvers have at one point read this book.
 
 Linear Algebra
+
 ![img](http://ecx.images-amazon.com/images/I/41besOHLcpL.jpg)
 
 The most important type of math for computing.

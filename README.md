@@ -31,13 +31,13 @@ note:
 
 ###Interests:
 
-######Coding:
+Coding:
 Algorithms, Machine Learning, Computational Geometry, Linux, Gambling Systems
 
-######Math:
+Math:
 Linear Algebra, Analysis, Probability, Proofs
 
-######Hobbies:
+Hobbies:
 Calisthenics, Cycling, Kick-boxing, Hockey, Science Fiction, Piano
 
 
@@ -53,11 +53,17 @@ Here's some advice on how to become a data programmer. My goal is to reduce your
 ###Problem Solving
 I am a big fan of the concept of the canonical example. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within Proofs just take the simple example of proving x is an irrational number.
 
-* `Problem: Show x to be irrational.`
-* `Input: x^2=2`
-* `Output: x is irrational`
+* Problem: Show x to be irrational.
+* Input: x^2=2
+* Output: x is irrational
 
-After going through the construction of your argument you find yourself becoming aware of the `axiomatic system`, `logical inference`, and the important idea of `proof by contradiction`, which basically spans the space of the mathematicians tool set for solving problems. 
+After going through the construction of your argument you find yourself becoming aware of 
+
+* axiomatic system 
+* logical inferences
+* proof by contradiction [important idea]
+
+which basically spans the space of the mathematicians tools for solving problems. 
 
 To summarize, reduce all problems to their simplest form, picture the problem in your head, and then use it as a reference point when challenged with similar problems in the future. Below are my personal recommendations on becoming a better problem solver and some programming tips I found out about along the way.
 

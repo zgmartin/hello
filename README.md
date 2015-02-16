@@ -56,10 +56,10 @@ You want to become a better problem solver and overall analytical thinker. Figur
 
 A fantastically well written book with a lot of powerful ideas about modeling physical systems. 
 
-*Particle System
-*Autonomous Agents
-*Evolution
-*Neural Nets
+-Particle System
+-Autonomous Agents
+-Evolution
+-Neural Nets
 
 ######Machine Learning 
 ![img](http://ecx.images-amazon.com/images/I/612j5Uo43eL._SY344_BO1,204,203,200_.jpg)

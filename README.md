@@ -96,7 +96,12 @@ The Algorithm Design Manual
 
 A true gem within space of learning. This is The Algorithms Book that every computer scientist or problem solver must read. My teacher, [Steve Skiena](http://www3.cs.stonybrook.edu/~skiena/) at Stony Brook, wrote this elegant masterpiece. 
 
-This book essentially teaches you techniques on how to become a better problem solver in the world of computing. The big topics covered are Algorithmic Thinking, Graphs, Combinatorial Problems, and Problem Solving by Referencing.
+This book essentially teaches you techniques on how to become a better problem solver in the world of computing. The big topics covered are 
+
+* Algorithmic Thinking
+* Graphs
+* Combinatorial Problems
+* References
 
 Try to solve as many problems you can from this book from this book. If you don't believe me, then believe [Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is the book they recommend people read before they try to work there.
 

@@ -43,7 +43,7 @@ Calisthenics, Cycling, Kick-boxing, Hockey, Science Fiction, Piano
 
 ##Advice:
 
-![img](http://www.clker.com/cliparts/5/6/d/e/11954409301979070935ryanlerch_The_White_Rabbit.svg.hi.png)
+![img](http://gakuran.com/eng/wp-content/uploads/2013/03/white-rabbit.png)
 
 Down the rabbit hole we go.
 
@@ -70,7 +70,7 @@ Proof Logic and Conjecture: A Mathematician's Toolbox
 
 ![img](http://ecx.images-amazon.com/images/I/513EacX6z0L._SX258_BO1,204,203,200_.jpg)
 
-There is one math book to rule them all [Lord of the Rings style](https://www.youtube.com/watch?v=-UsrkoweVa4). If you read this book forwards and back you will become a math master armed with powerful mathematical conceptual thinking which is spread throughout all scientific disciplines. 
+There is one math book to rule them all [Lord of the Rings](https://www.youtube.com/watch?v=-UsrkoweVa4) style. If you read this book forwards and back you will become a math master armed with powerful mathematical conceptual thinking which is spread throughout all scientific disciplines. 
 
 After spending time with this book, you can walk into any technical conversation with the confidence to analyze and solve problems through the fundamental framework of mathematical thinking (that's serious power). 
 

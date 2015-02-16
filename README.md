@@ -7,10 +7,10 @@
 <img src = "./me.png">
 
 
-No one shall expel us from the Paradise that Guido has created.
+No one shall expel us from the paradise that Guido has created.
 
-I am a `programmer/mathematician` who enjoys writing clean code.
-My coding philosophy is similar to the philosophy of the [Arch Linux](https://wiki.archlinux.org/index.php/The_Arch_Way)community. 
+I am a programmer/mathematician who enjoys writing clean code.
+My coding philosophy is similar to the philosophy of the [Arch Linux](https://wiki.archlinux.org/index.php/The_Arch_Way) community. 
 
 Always striving to write high quality code is my personal goal of mine. Clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. 
 
@@ -54,7 +54,9 @@ Here's some advice on how to become a data programmer. My goal is to reduce your
 I am a big fan of the concept of the canonical example. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within Proofs just take the simple example of proving x is an irrational number.
 
 `Problem: Show x to be irrational.`
+
 `Input: x^2=2`
+
 `Output: x is irrational`
 
 After going through the construction of your argument you find yourself becoming aware of the `axiomatic system`, `logical inference`, and the important idea of `proof by contradiction`, which basically spans the space of the mathematicians tool set for solving problems. 
@@ -92,12 +94,12 @@ I can't stress to you how much this book has influenced me. It completely change
 ###Language:
 Use python for all your programming. Why? 
 
-*Easy to code with.
-*Blindingly fast to develop in. 
-*On the verge of becoming a standard.
-*More people are using for their projects.
-*Integrates with C for constant speed performance.
-*[Ipython]((http://ipython.org/) ) is great for learning and test ideas.
+* Easy to code with.
+* Blindingly fast to develop in. 
+* On the verge of becoming a standard.
+* More people are using for their projects.
+* Integrates with C for constant speed performance.
+* [Ipython]((http://ipython.org/) ) is great for learning and test ideas.
 
 [intro](http://www.swaroopch.com/notes/python/)
 [interm](http://www.tutorialspoint.com/python/index.htm)
@@ -111,7 +113,9 @@ Every company is running some type of Linux machine so dive, and fire up the [co
 [Ipython](http://ipython.org/) is a great place to experiment new ideas and understand and learn how to use code written by other people. The real power of ipython is its ability to allow you to easily access the documentation of code from other projects. For example if you want to understand how math works within python.
 
 `import math` accesses math from standard library file
-`math?` what math does 
+
+`math?` what math does
+
 `math.`[Tab key] what function math has
 
 [Sublime](http://www.sublimetext.com/) is a perfect text editor with simple and powerful features. I particularly enjoy using the multi line editing, built automation of text typing, and code highlighting.
@@ -126,11 +130,11 @@ Learn both Mongo and SQL databases. Companies want to see the old school SQL kno
 ###Projects:
 Companies want to see that you have the ability to collect, manipulate, and model data to help the company make more informed decisions. Here are some steps on how to improve your project.
 
--scrape data from web (scrapy)
--store data in database (Mongodb or SQL)
--extract data (pandas: split, merge, transform)
--model data (machine learning)
--document results (info, plots, error rates)
+* scrape data from web (scrapy)
+* store data in database (Mongodb or SQL)
+* extract data (pandas: split, merge, transform)
+* model data (machine learning)
+* document results (info, plots, error rates)
 
 
 

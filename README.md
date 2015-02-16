@@ -48,7 +48,7 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ![img](http://www.diveintopython3.net/i/cover.jpg)
 ######Algorithms
 ![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
-######Pattern Recognition 
+######Machine Learning 
 ![img](http://ecx.images-amazon.com/images/I/612j5Uo43eL._SY344_BO1,204,203,200_.jpg)
 ######Text Processing
 ![img](http://gnosis.cx/TPiP/cover-small.jpg)
@@ -67,21 +67,16 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ###Math: 
 ######Proofs
 ![img](http://ecx.images-amazon.com/images/I/513EacX6z0L._SX258_BO1,204,203,200_.jpg)
+######Problem Solving
+![img](http://www.pagedon.com/wp-content/uploads/2012/09/k669.gif)
 ######Linear Algebra
 ![img](http://ecx.images-amazon.com/images/I/41besOHLcpL.jpg)
 ######Analysis
 ![img](http://ecx.images-amazon.com/images/I/41rKny566IL.jpg)
 ![img](http://ecx.images-amazon.com/images/I/41WthZ5-oiL._SY344_BO1,204,203,200_.jpg)
+The way Calculus should be taught.
 ######Math History
 ![img](http://d.gr-assets.com/books/1348678123l/116185.jpg)   
-
-###Science: 
-######The Cosmic Code
-![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
-######Dreams of Reason 
-![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
-######Physics
-![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
 
 ###Gambling Systems: 
 ######Calculated Bets
@@ -92,6 +87,14 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ![img](http://upload.wikimedia.org/wikipedia/en/c/c9/Beat_the_Dealer_by_Ed_Thorp.jpg)
 ######Beat The Market
 ![img](http://pixhst.com/avaxhome/2008-06-10/d40e793509a0ce998ae77110.L.jpg_.jpg)
+
+###Science: 
+######The Cosmic Code
+![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
+######Dreams of Reason 
+![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
+######Physics
+![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
 
 ###Science Fiction:
 ######Jurassic Park

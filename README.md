@@ -75,6 +75,23 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ######Math History
 ![img](http://d.gr-assets.com/books/1348678123l/116185.jpg)   
 
+###Science: 
+######The Cosmic Code
+![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
+######Dreams of Reason 
+![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
+######Physics
+![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
+
+###Gambling Systems: 
+######Calculated Bets
+![img](http://ecx.images-amazon.com/images/I/51TJuIu84ZL._SY344_BO1,204,203,200_.jpg)
+######The Mathematics of Gambling
+![img](http://ecx.images-amazon.com/images/I/51SWReXlBFL._SY344_BO1,204,203,200_.jpg)
+######Beat The Dealer
+![img](http://upload.wikimedia.org/wikipedia/en/c/c9/Beat_the_Dealer_by_Ed_Thorp.jpg)
+######Beat The Market
+![img](http://pixhst.com/avaxhome/2008-06-10/d40e793509a0ce998ae77110.L.jpg_.jpg)
 
 ###Science Fiction:
 ######Jurassic Park
@@ -91,22 +108,3 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ![img](http://ecx.images-amazon.com/images/I/51UULPa99dL._SY344_BO1,204,203,200_.jpg)
 ######Colossus
 ![img](http://d.gr-assets.com/books/1254074903l/1797953.jpg)
-
-###Science: 
-######The Cosmic Code
-![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
-######Dreams of Reason 
-![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
-######Physics
-![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
-
-###Gambling Systems: 
-######Calculated Bets
-![img](http://ecx.images-amazon.com/images/I/51TJuIu84ZL._SY344_BO1,204,203,200_.jpg)
-######The Mathematics of Gambling
-![img](http://ecx.images-amazon.com/images/I/A1qVOTUAn4L.jpg)
-######Beat The Dealer
-![img](http://upload.wikimedia.org/wikipedia/en/c/c9/Beat_the_Dealer_by_Ed_Thorp.jpg)
-######Beat The Market
-![img](http://pixhst.com/avaxhome/2008-06-10/d40e793509a0ce998ae77110.L.jpg_.jpg)
-

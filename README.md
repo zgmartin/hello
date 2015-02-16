@@ -115,9 +115,9 @@ Use python for all your programming. Why?
 * Integrates with C for constant speed performance.
 * [Ipython](http://ipython.org/) is great for learning and test ideas.
 
-[intro](http://www.swaroopch.com/notes/python/)
-[interm](http://www.tutorialspoint.com/python/index.htm)
-[advanced](http://www.diveintopython.net/toc/index.html)
+* [intro](http://www.swaroopch.com/notes/python/)
+* [interm](http://www.tutorialspoint.com/python/index.htm)
+* [advanced](http://www.diveintopython.net/toc/index.html)
 
 
 ###Coding: 
@@ -137,7 +137,7 @@ Data bases are very important within data programming. The difference between a 
 
 SQL is stored in predefined structured tables, while No SQL databases provides a more flexible system where you don't need to worry about predefining the data you use. 
 
-Learn both Mongo and SQL databases. Companies want to see the old school SQL knowledge and the new school [No SQL database](http://www.mongodb.com/nosql-explained). 
+Learn both Mongo and SQL databases. Companies want to see the old school SQL knowledge and the new school [No SQL](http://www.mongodb.com/nosql-explained) database. 
 
 ###Projects:
 Companies want to see that you have the ability to collect, manipulate, and model data to help the company make more informed decisions. Here are some steps on how to improve your project.

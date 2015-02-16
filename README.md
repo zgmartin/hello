@@ -19,7 +19,7 @@ In addition to coding, I also value the ideals of social collaboration. I have b
 ##More About Me:
 I became interested in mathematical modeling through a [documentary](https://www.youtube.com/watch?v=QflVqavHHM0) I saw on the Science Channel about the MIT blackjack team beating Vegas with some techniques derived from [Edward O. Thorp](http://en.wikipedia.org/wiki/Edward_O._Thorp) book [Beat the Dealer](http://www.amazon.com/Beat-Dealer-Winning-Strategy-Twenty-One/dp/0394703103). It was fascinating to watch three people take control over an entire system through the use of math. After that point I was hooked.
 
-Later, I took an algorithms course taught by professor [Steve Skiena](http://www3.cs.stonybrook.edu/~skiena/). He would reveal a book he wrote called [Calculated Bets](http://www3.cs.stonybrook.edu/~skiena/jaialai/), which discussed his journey to conquer the betting system of Jai Alai. Calculated Bets demonstrated to me the power of combining math models with computers.
+Later, I took an algorithms course taught by professor [Steve Skiena](http://www3.cs.stonybrook.edu/~skiena/). He would reveal a book he wrote called [<!-- Calculated Bets -->](http://www3.cs.stonybrook.edu/~skiena/jaialai/), which discussed his journey to conquer the betting system of Jai Alai. Calculated Bets demonstrated to me the power of combining math models with computers.
 
 Further, I became interested in computer automation and pattern recognition through the Machine Learning course I took with professor [Luiz Ortiz](http://www3.cs.stonybrook.edu/~leortiz/). I learned some valuable techniques for data classification and pattern recognition, and hope to apply them within this ever increasing world of data.
 
@@ -31,58 +31,76 @@ note:
 
 ###Interests:
 
-Coding:
+######Coding:
 Algorithms, Machine Learning, Computational Geometry, Linux, Gambling Systems
 
-Math:
-Linear Algebra, Analysis, Proofs, Probability
+######Math:
+Linear Algebra, Analysis, Probability, Proofs
 
-Hobbies:
+######Hobbies:
 Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 
 
 ###Book Recommendations:
 
+#####Comp Sci:
+######Algorithms
+![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
+######Pattern Recognition (Bishop)
+![img](http://ecx.images-amazon.com/images/I/612j5Uo43eL._SY344_BO1,204,203,200_.jpg)
+######Linux Command Line (Shotts)
+![img](http://linuxcommand.org/images/51vgLTkNsIL._SL500_AA300_.jpg)
+######Computation Geometry (Berg, Orourke, Devadoss)
+![img](http://cs.smith.edu/~orourke/274/DCGcover.jpg)
+![img](http://ecx.images-amazon.com/images/I/51A6EumfzoL._SX258_BO1,204,203,200_.jpg)
+######The C Programming Language (Ritchie)
+![img](http://ecx.images-amazon.com/images/I/41qX6YdIJ7L._SX258_BO1,204,203,200_.jpg)
+######Computer Organization and Design (Patterson)
+![img](http://ecx.images-amazon.com/images/I/5153mE3JS%2BL._SX258_BO1,204,203,200_.jpg)
+
 #####Math: 
+######Proofs
+![img](http://ecx.images-amazon.com/images/I/513EacX6z0L._SX258_BO1,204,203,200_.jpg)
 ######Linear Algebra
 ![img](http://ecx.images-amazon.com/images/I/41besOHLcpL.jpg)
-Analysis
+######Analysis
 ![img](http://ecx.images-amazon.com/images/I/41rKny566IL.jpg)
 ![img](http://ecx.images-amazon.com/images/I/41WthZ5-oiL._SY344_BO1,204,203,200_.jpg)
-History of Mathematics (Burton)
-Journey Through Genius (Dunham) 
-Proof Logic and Conjecture (Wolf)  
-
-#####Comp Sci:
-Pattern Recognition (Bishop)
-Opreating Systems (Stallings)
-Linux Command Line (Shotts)
-Computation Geometry (Berg, Orourke, Devadoss)
-Absolute Java (Savitch)
-Algorithms (Skiena)
-C++ Primer (Prata)
-The C Programming Languahge (Ritchie)
-Mips Assembly Language (Britton)
-Computer Organization and Design (Patterson)
-Computer Architecture (Patterson)
-Game Engine Architechture (Gregory)
-Real Time Collision Detection (Ericson)
+######Math History
+![img](http://d.gr-assets.com/books/1348678123l/116185.jpg)   
 
 
-#####Sci fi:
-Jurassic Park (Crichton) 
-A Sound Of Thunder (Bradbury)
-Contact (Sagan)
-A Scanner Darkly (Dick)
-Behold The Man (Moorcock)
-Replay (Grimwood)
-Colossus (Jones)
+#####Science Fiction:
+######Jurassic Park
+![img](http://upload.wikimedia.org/wikipedia/en/3/33/Jurassicpark.jpg) 
+######A Sound Of Thunder
+![img](https://m1.behance.net/rendition/modules/102725227/disp/d9f56ae6abe4fa854e4cbf7a69a75352.jpg)
+######Contact
+![img](http://upload.wikimedia.org/wikipedia/en/5/55/Contact_Sagan.jpg)
+######A Scanner Darkly
+![img](http://hoflich.com/Peter/blog/wp-content/uploads/2013/08/ASD.png)
+######Behold The Man
+![img](https://farm9.staticflickr.com/8422/7714951894_8b91068509_z.jpg)
+######Replay
+![img](http://ecx.images-amazon.com/images/I/51UULPa99dL._SY344_BO1,204,203,200_.jpg)
+######Colossus
+![img](http://d.gr-assets.com/books/1254074903l/1797953.jpg)
 
 #####Science: 
-The Cosmic Code (Pagel)
-Dreams of Reason (Pagel)
-Physics (Giancoli)
+######The Cosmic Code
+![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
+######Dreams of Reason (Pagel)
+![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
+######Physics
+![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
 
-#####Finance: 
-Beat The Market(Thorp)
-Beat The Dealer(Thorp)
+#####Gambling Systems: 
+######Calculated Bets
+![img](http://ecx.images-amazon.com/images/I/51TJuIu84ZL._SY344_BO1,204,203,200_.jpg)
+######The Mathematics of Gambling
+![img](http://ecx.images-amazon.com/images/I/A1qVOTUAn4L.jpg)
+######Beat The Dealer
+![img](http://upload.wikimedia.org/wikipedia/en/c/c9/Beat_the_Dealer_by_Ed_Thorp.jpg)
+######Beat The Market
+![img](http://pixhst.com/avaxhome/2008-06-10/d40e793509a0ce998ae77110.L.jpg_.jpg)
+

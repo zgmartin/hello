@@ -142,7 +142,9 @@ If you want to become a better problem solver and overall analytical thinker, fi
 Python
 
 ![img](http://www.diveintopython3.net/i/cover.jpg)
+
 Algorithms
+
 ![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
 
 Physical Modeling
@@ -151,10 +153,10 @@ Physical Modeling
 
 A fantastically well written book with a lot of powerful ideas about modeling physical systems. 
 
-1. Particle System
-- Autonomous Agents
-- Evolution
-- Neural Nets
+* Particle System
+* Autonomous Agents
+* Evolution
+* Neural Nets
 
 Machine Learning 
 

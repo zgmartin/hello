@@ -74,7 +74,15 @@ There is one math book to rule them all [Lord of the Rings style](https://www.yo
 
 After spending time with this book, you can walk into any technical conversation with the confidence to analyze and solve problems through the fundamental framework of mathematical thinking (that's serious power). 
 
-This book covers all the big areas within mathematics (Proofs, Linear Algebra, Algebra, Analysis(a.k.a. Calculus), Number Theory). This book breaks all these ideas down into nice simple reading material, which will vastly improve your problem solving skills.
+This book covers all the big areas within mathematics 
+
+* Proofs 
+* Linear Algebra
+* Algebra
+* Analysis
+* Number Theory
+
+This book breaks all these ideas down into nice simple reading material, which will vastly improve your problem solving skills.
 
 
 ###Programming:
@@ -120,7 +128,7 @@ Every company is running some type of Linux machine so dive, and fire up the [co
 
 [Sublime](http://www.sublimetext.com/) is a perfect text editor with simple and powerful features. I particularly enjoy using the multi line editing, built automation of text typing, and code highlighting.
 
-##Databases:
+###Databases:
 Data bases are very important within data programming. The difference between a data base and a simple text file is the ability to run search algorithms on the data based on how it was stored.
 
 SQL is stored in predefined structured tables, while No SQL databases provides a more flexible system where you don't need to worry about predefining the data you use. 

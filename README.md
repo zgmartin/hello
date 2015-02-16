@@ -46,16 +46,16 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 #####Comp Sci:
 ######Algorithms
 ![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
-######Pattern Recognition (Bishop)
+######Pattern Recognition 
 ![img](http://ecx.images-amazon.com/images/I/612j5Uo43eL._SY344_BO1,204,203,200_.jpg)
-######Linux Command Line (Shotts)
+######Linux Command Line 
 ![img](http://linuxcommand.org/images/51vgLTkNsIL._SL500_AA300_.jpg)
-######Computation Geometry (Berg, Orourke, Devadoss)
-![img](http://cs.smith.edu/~orourke/274/DCGcover.jpg)
+######Computation Geometry
+![img](http://ecx.images-amazon.com/images/I/51icwQP57yL._SY344_BO1,204,203,200_.jpg)
 ![img](http://ecx.images-amazon.com/images/I/51A6EumfzoL._SX258_BO1,204,203,200_.jpg)
-######The C Programming Language (Ritchie)
+######The C Programming Language
 ![img](http://ecx.images-amazon.com/images/I/41qX6YdIJ7L._SX258_BO1,204,203,200_.jpg)
-######Computer Organization and Design (Patterson)
+######Computer Organization and Design
 ![img](http://ecx.images-amazon.com/images/I/5153mE3JS%2BL._SX258_BO1,204,203,200_.jpg)
 
 #####Math: 
@@ -74,13 +74,13 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ######Jurassic Park
 ![img](http://upload.wikimedia.org/wikipedia/en/3/33/Jurassicpark.jpg) 
 ######A Sound Of Thunder
-![img](https://m1.behance.net/rendition/modules/102725227/disp/d9f56ae6abe4fa854e4cbf7a69a75352.jpg)
+![img](https://p.gr-assets.com/200x200/scale/books/1348517197/2242187.jpg)
 ######Contact
-![img](http://upload.wikimedia.org/wikipedia/en/5/55/Contact_Sagan.jpg)
+![img](http://ecx.images-amazon.com/images/I/41GIMdnaHXL._SY344_BO1,204,203,200_.jpg)
 ######A Scanner Darkly
-![img](http://hoflich.com/Peter/blog/wp-content/uploads/2013/08/ASD.png)
+![img](http://ecx.images-amazon.com/images/I/41BYZWKm6oL.jpg)
 ######Behold The Man
-![img](https://farm9.staticflickr.com/8422/7714951894_8b91068509_z.jpg)
+![img](http://ecx.images-amazon.com/images/I/51WUViX6clL.jpg)
 ######Replay
 ![img](http://ecx.images-amazon.com/images/I/51UULPa99dL._SY344_BO1,204,203,200_.jpg)
 ######Colossus

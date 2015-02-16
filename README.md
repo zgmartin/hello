@@ -72,9 +72,10 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ######Linear Algebra
 ![img](http://ecx.images-amazon.com/images/I/41besOHLcpL.jpg)
 ######Analysis
-The way Calculus should be taught.
 ![img](http://ecx.images-amazon.com/images/I/41rKny566IL.jpg)
 ![img](http://ecx.images-amazon.com/images/I/41WthZ5-oiL._SY344_BO1,204,203,200_.jpg)
+
+The way Calculus should be taught.
 ######Math History
 ![img](http://d.gr-assets.com/books/1348678123l/116185.jpg)   
 

@@ -53,9 +53,9 @@ Here's some advice on how to become a data programmer. My goal is to reduce your
 ###Problem Solving
 I am a big fan of the concept of the canonical example. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within Proofs just take the simple example of proving x is an irrational number.
 
-⋅⋅⋅`Problem: Show x to be irrational.`⋅⋅
-⋅⋅⋅`Input: x^2=2`⋅⋅
-⋅⋅⋅`Output: x is irrational`
+* `Problem: Show x to be irrational.`
+* `Input: x^2=2`
+* `Output: x is irrational`
 
 After going through the construction of your argument you find yourself becoming aware of the `axiomatic system`, `logical inference`, and the important idea of `proof by contradiction`, which basically spans the space of the mathematicians tool set for solving problems. 
 
@@ -122,7 +122,7 @@ Every company is running some type of Linux machine so dive, and fire up the [co
 
 `math?` what math does
 
-`math.`[Tab key] what function math has
+`math.[Tab key]` what function math has
 
 [Sublime](http://www.sublimetext.com/) is a perfect text editor with simple and powerful features. I particularly enjoy using the multi line editing, built automation of text typing, and code highlighting.
 

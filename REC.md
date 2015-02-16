@@ -1,6 +1,6 @@
 Ok, so down the rabbit hole we go.
 
-<img src = "./white_rabbit.jpg">  
+![img](http://www.clker.com/cliparts/5/6/d/e/11954409301979070935ryanlerch_The_White_Rabbit.svg.hi.png)
 
 I’m a big fan of the canonical example concept. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within Proofs just take the simple example of proving x is an irrational number: for x^2=2, and after going through the construction of your argument you find yourself becoming aware of the axiomatic system, logical inference, and the big idea of proof by contradiction, which basically spans the space of the mathematicians tool set to solve problems. So in any other area you encounter within life, reduce the problem to the simplest instance, picture the problem in your head, and use it as a reference point when challenged with similar problems in the future. Below are my personal recommendations on becoming a better problem solver and some programming tips I found out about along the way.
 

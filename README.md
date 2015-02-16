@@ -10,7 +10,7 @@
 No one shall expel us from the Paradise that Guido has created.
 
 I am a programmer/mathematician who enjoys writing clean code.
-My coding philosophy is similar to the philosophy of the [Arch Linux community] (https://wiki.archlinux.org/index.php/The_Arch_Way). 
+My coding philosophy is similar to the philosophy of the [Arch Linux](https://wiki.archlinux.org/index.php/The_Arch_Way)community. 
 
 Always striving to write high quality code is my personal goal of mine. Clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. 
 
@@ -19,7 +19,7 @@ In addition to coding, I also value the ideals of social collaboration. I have b
 ##More About Me:
 I became interested in mathematical modeling through a [documentary](https://www.youtube.com/watch?v=QflVqavHHM0) I saw on the Science Channel about the MIT blackjack team beating Vegas with some techniques derived from [Edward O. Thorp](http://en.wikipedia.org/wiki/Edward_O._Thorp) book [Beat the Dealer](http://www.amazon.com/Beat-Dealer-Winning-Strategy-Twenty-One/dp/0394703103). It was fascinating to watch three people take control over an entire system through the use of math. After that point I was hooked.
 
-Later, I took an algorithms course taught by professor [Steve Skiena](http://www3.cs.stonybrook.edu/~skiena/). He would reveal a book he wrote called [<!-- Calculated Bets -->](http://www3.cs.stonybrook.edu/~skiena/jaialai/), which discussed his journey to conquer the betting system of Jai Alai. Calculated Bets demonstrated to me the power of combining math models with computers.
+Later, I took an algorithms course taught by professor [Steve Skiena](http://www3.cs.stonybrook.edu/~skiena/). He would reveal a book he wrote called [Calculated Bets](http://www3.cs.stonybrook.edu/~skiena/jaialai/), which discussed his journey to conquer the betting system of Jai Alai. Calculated Bets demonstrated to me the power of combining math models with computers.
 
 Further, I became interested in computer automation and pattern recognition through the Machine Learning course I took with professor [Luiz Ortiz](http://www3.cs.stonybrook.edu/~leortiz/). I learned some valuable techniques for data classification and pattern recognition, and hope to apply them within this ever increasing world of data.
 
@@ -44,10 +44,16 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ##Book Recommendations:
 
 ###Computer  Science:
+######Python
+![img](http://www.diveintopython3.net/i/cover.jpg)
 ######Algorithms
 ![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
 ######Pattern Recognition 
 ![img](http://ecx.images-amazon.com/images/I/612j5Uo43eL._SY344_BO1,204,203,200_.jpg)
+######Text Processing
+![img](http://gnosis.cx/TPiP/cover-small.jpg)
+######Data Programming
+![img](http://pandas.pydata.org/_static/pydata_cover.jpg)
 ######Linux Command Line 
 ![img](http://linuxcommand.org/images/51vgLTkNsIL._SL500_AA300_.jpg)
 ######Computation Geometry

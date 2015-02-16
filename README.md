@@ -41,9 +41,9 @@ Linear Algebra, Analysis, Probability, Proofs
 Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 
 
-###Book Recommendations:
+##Book Recommendations:
 
-#####Comp Sci:
+###Computer  Science:
 ######Algorithms
 ![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
 ######Pattern Recognition 
@@ -58,7 +58,7 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ######Computer Organization and Design
 ![img](http://ecx.images-amazon.com/images/I/5153mE3JS%2BL._SX258_BO1,204,203,200_.jpg)
 
-#####Math: 
+###Math: 
 ######Proofs
 ![img](http://ecx.images-amazon.com/images/I/513EacX6z0L._SX258_BO1,204,203,200_.jpg)
 ######Linear Algebra
@@ -70,7 +70,7 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ![img](http://d.gr-assets.com/books/1348678123l/116185.jpg)   
 
 
-#####Science Fiction:
+###Science Fiction:
 ######Jurassic Park
 ![img](http://upload.wikimedia.org/wikipedia/en/3/33/Jurassicpark.jpg) 
 ######A Sound Of Thunder
@@ -86,15 +86,15 @@ Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
 ######Colossus
 ![img](http://d.gr-assets.com/books/1254074903l/1797953.jpg)
 
-#####Science: 
+###Science: 
 ######The Cosmic Code
 ![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
-######Dreams of Reason (Pagel)
+######Dreams of Reason 
 ![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
 ######Physics
 ![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
 
-#####Gambling Systems: 
+###Gambling Systems: 
 ######Calculated Bets
 ![img](http://ecx.images-amazon.com/images/I/51TJuIu84ZL._SY344_BO1,204,203,200_.jpg)
 ######The Mathematics of Gambling

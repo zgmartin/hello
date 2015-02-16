@@ -139,11 +139,13 @@ Companies want to see that you have the ability to collect, manipulate, and mode
 If you want to become a better problem solver and overall analytical thinker, figure out how the greats thought by reading their book recommendations. 
 
 ###Computer Science:
-######Python
+Python
+
 ![img](http://www.diveintopython3.net/i/cover.jpg)
-######Algorithms
+Algorithms
 ![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
-######Physical Modeling
+
+Physical Modeling
 
 ![img](http://d.gr-assets.com/books/1355847913l/16123828.jpg)
 
@@ -154,75 +156,105 @@ A fantastically well written book with a lot of powerful ideas about modeling ph
 - Evolution
 - Neural Nets
 
-######Machine Learning 
+Machine Learning 
+
 ![img](http://ecx.images-amazon.com/images/I/612j5Uo43eL._SY344_BO1,204,203,200_.jpg)
-######Text Processing
+
+Text Processing
+
 ![img](http://gnosis.cx/TPiP/cover-small.jpg)
-######Data Programming
-![img](http://pandas.pydata.org/_static/pydata_cover.jpg)
-######Linux Command Line 
+
+Data Programming
+
+![img](http://ecx.images-amazon.com/images/I/514byZUF8nL.jpg)
+
+Linux Command Line 
+
 ![img](http://linuxcommand.org/images/51vgLTkNsIL._SL500_AA300_.jpg)
-######Computation Geometry
+
+Computation Geometry
+
 ![img](http://ecx.images-amazon.com/images/I/51icwQP57yL._SY344_BO1,204,203,200_.jpg)
 ![img](http://ecx.images-amazon.com/images/I/51A6EumfzoL._SX258_BO1,204,203,200_.jpg)
-######The C Programming Language
+
+The C Programming Language
+
 ![img](http://ecx.images-amazon.com/images/I/41qX6YdIJ7L._SX258_BO1,204,203,200_.jpg)
 
 Teaches how to think like a machine by the people who knew best.
 
-######Computer Organization and Design
+Computer Organization and Design
+
 ![img](http://ecx.images-amazon.com/images/I/5153mE3JS%2BL._SX258_BO1,204,203,200_.jpg)
 
 
 ###Math: 
-######Proofs
+Proofs
+
 ![img](http://ecx.images-amazon.com/images/I/513EacX6z0L._SX258_BO1,204,203,200_.jpg)
-######Problem Solving
+
+Problem Solving
+
 ![img](http://www.pagedon.com/wp-content/uploads/2012/09/k669.gif)
 
 All the great problem solvers have at one point read this book.
 
-######Linear Algebra
+Linear Algebra
 ![img](http://ecx.images-amazon.com/images/I/41besOHLcpL.jpg)
 
 The most important type of math for computing.
 
-######Analysis
+Analysis
+
 ![img](http://ecx.images-amazon.com/images/I/41rKny566IL.jpg)
 ![img](http://ecx.images-amazon.com/images/I/41WthZ5-oiL._SY344_BO1,204,203,200_.jpg)
 
 The way Calculus should be taught.
 
-######Probability:
+Probability
+
 ![img](http://ecx.images-amazon.com/images/I/41K79M91ESL._SX258_BO1,204,203,200_.jpg)
 
 The best book on probability.
 
-######Math History
+Math History
+
 ![img](http://d.gr-assets.com/books/1348678123l/116185.jpg) 
 
 A collection of inspirational stories and problems from the greatest problem solvers in history.
 
 
 ###Gambling Systems: 
-######Calculated Bets
+Calculated Bets
+
 ![img](http://ecx.images-amazon.com/images/I/51TJuIu84ZL._SY344_BO1,204,203,200_.jpg)
 
 How to use computers to model the world and win money.
 
-######The Mathematics of Gambling
+The Mathematics of Gambling
+
 ![img](http://ecx.images-amazon.com/images/I/51SWReXlBFL._SY344_BO1,204,203,200_.jpg)
-######Beat The Dealer
+
+Beat The Dealer
+
 ![img](http://upload.wikimedia.org/wikipedia/en/c/c9/Beat_the_Dealer_by_Ed_Thorp.jpg)
-######Beat The Market
+
+Beat The Market
+
 ![img](http://pixhst.com/avaxhome/2008-06-10/d40e793509a0ce998ae77110.L.jpg_.jpg)
 
 ###Science: 
-######The Cosmic Code
+
+The Cosmic Code
+
 ![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
-######Dreams of Reason 
+
+Dreams of Reason 
+
 ![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
-######Physics
+
+Physics
+
 ![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
 
 ###Science Fiction:

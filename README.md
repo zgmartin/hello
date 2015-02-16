@@ -9,7 +9,7 @@
 
 No one shall expel us from the Paradise that Guido has created.
 
-I am a programmer/mathematician who enjoys writing clean code.
+I am a `programmer/mathematician` who enjoys writing clean code.
 My coding philosophy is similar to the philosophy of the [Arch Linux](https://wiki.archlinux.org/index.php/The_Arch_Way)community. 
 
 Always striving to write high quality code is my personal goal of mine. Clean code is what makes coding enjoyable and fun for everyone within the coding community. I hope to accomplish this goal through the code I submit to this account. 
@@ -38,12 +38,12 @@ Algorithms, Machine Learning, Computational Geometry, Linux, Gambling Systems
 Linear Algebra, Analysis, Probability, Proofs
 
 ######Hobbies:
-Calisthenics, Cycling, Piano, Science Fiction, Kick-boxing, Hockey
+Calisthenics, Cycling, Kick-boxing, Hockey, Science Fiction, Piano
 
 
 ##Book Recommendations:
 
-You want to become a better problem solver and overall analytical thinker. Figure out how the greats thought by reading their book recommendations. 
+If you want to become a better problem solver and overall analytical thinker, figure out how the greats thought by reading their book recommendations. 
 
 ###Computer Science:
 ######Python
@@ -56,7 +56,7 @@ You want to become a better problem solver and overall analytical thinker. Figur
 
 A fantastically well written book with a lot of powerful ideas about modeling physical systems. 
 
-- Particle System
+1. Particle System
 - Autonomous Agents
 - Evolution
 - Neural Nets
@@ -147,3 +147,98 @@ How to use computers to model the world and win money.
 ![img](http://ecx.images-amazon.com/images/I/51UULPa99dL._SY344_BO1,204,203,200_.jpg)
 ######Colossus
 ![img](http://d.gr-assets.com/books/1254074903l/1797953.jpg)
+
+
+##Advice:
+
+![img](http://www.clker.com/cliparts/5/6/d/e/11954409301979070935ryanlerch_The_White_Rabbit.svg.hi.png)
+
+Down the rabbit hole we go.
+
+Here's some advice on how to become a data programmer. My goal is to reduce your time within the search space, and direct you to your goals faster.
+
+
+###Problem Solving
+I am a big fan of the concept of the canonical example. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within Proofs just take the simple example of proving x is an irrational number.
+
+`Problem: Show x to be irrational.`
+`Input: x^2=2`
+`Output: x is irrational`
+
+After going through the construction of your argument you find yourself becoming aware of the `axiomatic system`, `logical inference`, and the important idea of `proof by contradiction`, which basically spans the space of the mathematicians tool set for solving problems. 
+
+To summarize, reduce all problems to their simplest form, picture the problem in your head, and then use it as a reference point when challenged with similar problems in the future. Below are my personal recommendations on becoming a better problem solver and some programming tips I found out about along the way.
+
+
+
+###Math:
+Proof Logic and Conjecture: A Mathematician's Toolbox
+
+![img](http://ecx.images-amazon.com/images/I/513EacX6z0L._SX258_BO1,204,203,200_.jpg)
+
+There is one math book to rule them all [Lord of the Rings style](https://www.youtube.com/watch?v=-UsrkoweVa4). If you read this book forwards and back you will become a math master armed with powerful mathematical conceptual thinking which is spread throughout all scientific disciplines. 
+
+After spending time with this book, you can walk into any technical conversation with the confidence to analyze and solve problems through the fundamental framework of mathematical thinking (that's serious power). 
+
+This book covers all the big areas within mathematics (Proofs, Linear Algebra, Algebra, Analysis(a.k.a. Calculus), Number Theory). This book breaks all these ideas down into nice simple reading material, which will vastly improve your problem solving skills.
+
+
+##Programming:
+The Algorithm Design Manual
+
+![img](http://ecx.images-amazon.com/images/I/51r4IbHLv4L._SY344_BO1,204,203,200_.jpg)
+
+A true gem within space of learning. This is The Algorithms Book that every computer scientist or problem solver must read. My teacher, [Steve Skiena](http://www3.cs.stonybrook.edu/~skiena/) at Stony Brook, wrote this elegant masterpiece. 
+
+This book essentially teaches you techniques on how to become a better problem solver in the world of computing. The big topics covered are Algorithmic Thinking, Graphs, Combinatorial Problems, and Problem Solving by Referencing.
+
+Try to solve as many problems you can from this book from this book. If you don't believe me, then believe [Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is the book they recommend people read before they try to work there.
+
+I can't stress to you how much this book has influenced me. It completely changed my approach to solving programming problems. A company even flew me out to their office in Palo Alto California after I solved a problem by referencing this book.
+
+
+##Language:
+Use python for all your programming. Why? 
+
+*Easy to code with.
+*Blindingly fast to develop in. 
+*On the verge of becoming a standard.
+*More people are using for their projects.
+*Integrates with C for constant speed performance.
+*[Ipython]((http://ipython.org/) ) is great for learning and test ideas.
+
+![intro](http://www.swaroopch.com/notes/python/)
+![interm](http://www.tutorialspoint.com/python/index.htm)
+![advanced](http://www.diveintopython.net/toc/index.html)
+
+
+##Coding: 
+Coding is too dependent on crummy graphics interfaces, so I have listed some useful ways to help you improve your work flow and make you a better programmer. 
+Every company is running some type of Linux machine so dive, and fire up the [command line](http://linuxcommand.org/lc3_learning_the_shell.php).
+
+[Ipython](http://ipython.org/) is a great place to experiment new ideas and understand and learn how to use code written by other people. The real power of ipython is its ability to allow you to easily access the documentation of code from other projects. For example if you want to understand how math works within python.
+
+`import math` accesses math from standard library file
+`math?` what math does 
+`math.`[Tab key] what function math has
+
+[Sublime](http://www.sublimetext.com/) is a perfect text editor with simple and powerful features. I particularly enjoy using the multi line editing, built automation of text typing, and code highlighting.
+
+##Databases:
+Data bases are very important within data programming. The difference between a data base and a simple text file is the ability to run search algorithms on the data based on how it was stored.
+
+SQL is stored in predefined structured tables, while No SQL databases provides a more flexible system where you don't need to worry about predefining the data you use. 
+
+Learn both Mongo and SQL databases. Companies want to see the old school SQL knowledge and the new school [No SQL database](http://www.mongodb.com/nosql-explained). 
+
+##Projects:
+Companies want to see that you have the ability to collect, manipulate, and model data to help the company make more informed decisions. Here are some steps on how to improve your project.
+
+-scrape data from web (scrapy)
+-store data in database (Mongodb or SQL)
+-extract data (pandas: split, merge, transform)
+-model data (machine learning)
+-document results (info, plots, error rates)
+
+
+

@@ -7,7 +7,7 @@
 <img src = "./me.png">
 
 
-No one shall expel us from the paradise that Guido has created.
+No one shall expel us from the paradise that [Guido](http://en.wikipedia.org/wiki/Guido_van_Rossum) has created.
 
 I am a programmer/mathematician who enjoys writing clean code.
 My coding philosophy is similar to the philosophy of the [Arch Linux](https://wiki.archlinux.org/index.php/The_Arch_Way) community. 
@@ -119,6 +119,7 @@ Use python for all your programming. Why?
 * More people are using for their projects.
 * Integrates with C for constant speed performance.
 * [Ipython](http://ipython.org/) is great for learning and test ideas.
+
 
 * [intro](http://www.swaroopch.com/notes/python/)
 * [interm](http://www.tutorialspoint.com/python/index.htm)

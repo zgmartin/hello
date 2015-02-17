@@ -174,7 +174,7 @@ Physical Modeling
 
 ![img](http://d.gr-assets.com/books/1355847913l/16123828.jpg)
 
-A fantastically well written book with a lot of powerful ideas about modeling physical systems. 
+A fantastically well written [book](http://natureofcode.com/book/) with a lot of powerful ideas about modeling physical systems. 
 
 * Particle System
 * Autonomous Agents

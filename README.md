@@ -47,14 +47,14 @@ Calisthenics, Cycling, Kick-boxing, Hockey, Science Fiction, Piano
 
 Down the rabbit hole we go.
 
-Here's some advice on how to become a data programmer, and more importantly a better problem solver. My goal is to reduce your time within the search space, and direct you to your goals faster.
+Here is some advice on how to become a data programmer, and more importantly a better problem solver. My goal is to reduce your time within the search space, and direct you to your goals faster.
 
 
 ###Problem Solving
-I am a big fan of the concept of the canonical example. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within Proofs just take the simple example of proving x is an irrational number.
+I am a big fan of the concept of the canonical example. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within proofs just take the simple example of proving x is an irrational number.
 
 * Problem: Show x to be irrational.
-* Input: x^2=2
+* Input: x^2 = 2
 * Output: x is irrational
 
 After going through the construction of your argument you find yourself becoming aware of 
@@ -86,7 +86,7 @@ This book covers all the big areas within mathematics
 * Analysis
 * Number Theory
 
-This book breaks all these ideas down into nice simple reading material, which will vastly improve your problem solving skills.
+The book also breaks all these ideas down into nice simple reading material, which will vastly improve your problem solving skills.
 
 
 ###Programming:
@@ -105,7 +105,7 @@ This book essentially teaches you techniques on how to become a better problem s
 
 Try to solve as many problems you can from this book from this book. If you don't believe me, then believe [Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is the book they recommend people read before they try to work there.
 
-Read chapter 10! It is all about how to formulate problem and devise strategies to execute on solving them. 
+Read chapter 10! It is all about how to analyze problems and devise strategies to execute on them. There are also a set of useful questions you should answer when stuck on a problem.
 
 I can't stress to you how much this book has influenced me. It completely changed my approach to solving programming problems. A company even flew me out to their office in Palo Alto California after I solved a problem by referencing this book.
 
@@ -120,6 +120,7 @@ Use python for all your programming. Why?
 * Integrates with C for constant speed performance.
 * [Ipython](http://ipython.org/) is great for learning and test ideas.
 
+Learning Python
 
 * [intro](http://www.swaroopch.com/notes/python/)
 * [interm](http://www.tutorialspoint.com/python/index.htm)
@@ -133,7 +134,7 @@ Every company is running some type of Linux machine so dive, and fire up the [co
 [Ipython](http://ipython.org/) is a great place to experiment new ideas and understand and learn how to use code written by other people. The real power of ipython is its ability to allow you to easily access the documentation of code from other projects. For example if you want to understand how math works within python.
 
 * accesses math from file: `import math`
-* what math: does `math?`
+* what math does: `math?`
 * what function math has: `math.[Tab key]`
 
 [Sublime](http://www.sublimetext.com/) is a perfect text editor with simple and powerful features. I particularly enjoy using the multi line editing, built automation of text typing, and code highlighting.

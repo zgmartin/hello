@@ -162,7 +162,7 @@ Companies want to see that you have the ability to collect, manipulate, and mode
 If you want to become a better problem solver and overall analytical thinker, figure out how the greats thought by reading their book recommendations. 
 
 ###Computer Science:
-Python
+Coding
 
 ![img](http://www.diveintopython3.net/i/cover.jpg)
 
@@ -202,9 +202,14 @@ Computation Geometry
 ![img](http://ecx.images-amazon.com/images/I/51icwQP57yL._SY344_BO1,204,203,200_.jpg)
 ![img](http://ecx.images-amazon.com/images/I/51A6EumfzoL._SX258_BO1,204,203,200_.jpg)
 
-The C Programming Language
+Numerical Analysis
+
+![img](http://www.ebook3000.com/upimg/201010/10/220307382.jpeg)
+
+Machine Thinking
 
 ![img](http://ecx.images-amazon.com/images/I/41qX6YdIJ7L._SX258_BO1,204,203,200_.jpg)
+![img](http://ecx.images-amazon.com/images/I/510MB5W8F4L.jpg)
 
 Teaches how to think like a machine by the people who knew best.
 

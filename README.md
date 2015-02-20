@@ -38,7 +38,7 @@ Math:
 Linear Algebra, Analysis, Probability, Proofs
 
 Hobbies:
-Calisthenics, Cycling, Kick-boxing, Hockey, Science Fiction, Piano
+[Calisthenics](https://www.youtube.com/watch?v=_NqbJA_DEtc), Cycling, Kick-boxing, Hockey, Science Fiction, Piano
 
 
 ##Advice:
@@ -118,7 +118,7 @@ Use python for all your programming. Why?
 * On the verge of becoming a standard.
 * More people are using for their projects.
 * Integrates with C for constant speed performance.
-* [Ipython](http://ipython.org/) is great for learning and test ideas.
+* [Ipython](http://ipython.org/) is great for learning and testing ideas.
 
 Learning Python
 
@@ -137,7 +137,7 @@ Every company is running some type of Linux machine so dive, and fire up the [co
 * what math does: `math?`
 * what function math has: `math.[Tab key]`
 
-[Sublime](http://www.sublimetext.com/) is a perfect text editor with simple and powerful features. I particularly enjoy using the multi line editing, built automation of text typing, and code highlighting.
+[Sublime](http://www.sublimetext.com/) compliments ipython well with simple and powerful features for making coding fast. I particularly enjoy using the multi line editing, auto text typing, and code highlighting.
 
 ###Databases:
 Data bases are very important within data programming. The difference between a data base and a simple text file is the ability to run search algorithms on the data based on how it was stored.
@@ -185,13 +185,13 @@ Machine Learning
 
 ![img](http://ecx.images-amazon.com/images/I/612j5Uo43eL._SY344_BO1,204,203,200_.jpg)
 
-Text Processing
-
-![img](http://gnosis.cx/TPiP/cover-small.jpg)
-
 Data Programming
 
 ![img](http://ecx.images-amazon.com/images/I/514byZUF8nL.jpg)
+
+Text Processing
+
+![img](http://gnosis.cx/TPiP/cover-small.jpg)
 
 Linux Command Line 
 
@@ -213,7 +213,7 @@ Machine Thinking
 
 Teaches how to think like a machine by the people who knew best.
 
-Computer Organization and Design
+Computer Design
 
 ![img](http://ecx.images-amazon.com/images/I/5153mE3JS%2BL._SX258_BO1,204,203,200_.jpg)
 

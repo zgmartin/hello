@@ -255,7 +255,13 @@ Math History
 A collection of inspirational stories and problems from the greatest problem solvers in history.
 
 
-###Gambling Systems: 
+###Systems: 
+Social Hacking
+
+![img](http://www.backtrack-linux.org/images/SEBookCover.jpg)
+
+The majority of life is personal interaction. Master people and you will be able to go places.
+
 Calculated Bets
 
 ![img](http://ecx.images-amazon.com/images/I/51TJuIu84ZL._SY344_BO1,204,203,200_.jpg)

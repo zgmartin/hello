@@ -45,7 +45,7 @@ Hobbies:
 
 ![img](http://gakuran.com/eng/wp-content/uploads/2013/03/white-rabbit.png)
 
-Down the rabbit hole we go.
+Down the [rabbit hole](https://www.youtube.com/watch?v=Smwrw4sNCxE) we go.
 
 Here is some advice on how to become a data programmer, and more importantly a better problem solver. My goal is to reduce your time within the search space, and direct you to your goals faster.
 

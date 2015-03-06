@@ -54,8 +54,8 @@ Here is some advice on how to become a data programmer, and more importantly a b
 I am a big fan of the concept of the canonical example. All big ideas can be understood and reduced to simple easy to construct examples. For example, if you want to understand most of the ideas within proofs just take the simple example of proving x is an irrational number.
 
 * Problem: Show x to be irrational.
-* Input: x^2 = 2
-* Output: x is irrational
+    * Input: x^2 = 2
+    * Output: x is irrational
 
 After going through the construction of your argument you find yourself becoming aware of 
 

@@ -204,6 +204,7 @@ Computation Geometry
 
 Numerical Analysis
 
+![img](http://ecx.images-amazon.com/images/I/31pZGUSgyKL._SY344_BO1,204,203,200_.jpg)
 ![img](http://www.ebook3000.com/upimg/201010/10/220307382.jpeg)
 
 Machine Thinking

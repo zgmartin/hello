@@ -321,7 +321,7 @@ A Sound Of Thunder
 ![img](https://p.gr-assets.com/200x200/scale/books/1348517197/2242187.jpg)
 Contact
 
-Is the world deterministic events or chaotic noise? How much does our past reflect future?
+Is the world deterministic events or chaotic noise? How much does the past reflect the future?
 
 ![img](http://ecx.images-amazon.com/images/I/41GIMdnaHXL._SY344_BO1,204,203,200_.jpg)
 
@@ -337,7 +337,7 @@ Behold The Man
 
 ![img](http://ecx.images-amazon.com/images/I/51WUViX6clL.jpg)
 
-A man travels back in time to confront his religious past, but finds out the frighting truth of this time, and deterministically sets out to correct it, thus prophesies his own fate. 
+A man travels back in time to confront his religious past, but finds out the disturbing truth, and sets out to correct it while failing to realize the prophesies of his own fate. 
 
 Replay
 

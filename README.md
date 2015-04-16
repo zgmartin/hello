@@ -153,7 +153,7 @@ Companies want to see that you have the ability to collect, manipulate, and mode
 * store data in database (Mongodb or SQL)
 * extract data (pandas: split, merge, transform)
 * model data (machine learning)
-* document results (info, plots, error rates)
+* document results (matplotlib, plots, error rates)
 
 
 
@@ -207,6 +207,8 @@ Numerical Analysis
 ![img](http://ecx.images-amazon.com/images/I/31pZGUSgyKL._SY344_BO1,204,203,200_.jpg)
 ![img](http://www.ebook3000.com/upimg/201010/10/220307382.jpeg)
 
+When you realize closed form solutions can only get you so far. The rest is all numerical.
+
 Machine Thinking
 
 ![img](http://ecx.images-amazon.com/images/I/41qX6YdIJ7L._SX258_BO1,204,203,200_.jpg)
@@ -241,7 +243,7 @@ Analysis
 ![img](http://ecx.images-amazon.com/images/I/41rKny566IL.jpg)
 ![img](http://ecx.images-amazon.com/images/I/41WthZ5-oiL._SY344_BO1,204,203,200_.jpg)
 
-The way Calculus should be taught.
+The way Calculus should be taught. Through basic principles from the ground up. 
 
 Probability
 
@@ -273,13 +275,19 @@ The Mathematics of Gambling
 
 ![img](http://ecx.images-amazon.com/images/I/51SWReXlBFL._SY344_BO1,204,203,200_.jpg)
 
+The mathematics behind gambling systems and expected outcomes to win. 
+
 Beat The Dealer
 
 ![img](http://upload.wikimedia.org/wikipedia/en/c/c9/Beat_the_Dealer_by_Ed_Thorp.jpg)
 
+The outline of how to beat the casinos and win big though basic strategy and card counting.
+
 Beat The Market
 
 ![img](http://pixhst.com/avaxhome/2008-06-10/d40e793509a0ce998ae77110.L.jpg_.jpg)
+
+An example of basic strategy within market trading.  
 
 ###Science: 
 
@@ -287,40 +295,59 @@ The Cosmic Code
 
 ![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
 
+The new paradigm shift within 20th century science and dawn of understanding the indeterministic system of the quantum world.  
+
 Dreams of Reason 
 
 ![img](http://ecx.images-amazon.com/images/I/51NS0KERJ7L._SY344_BO1,204,203,200_.jpg)
 
+The new science of complexity and its implications for the future.
+
 Physics
 
 ![img](http://wps.prenhall.com/wps/media/objects/1087/1113739/_skins_/D/default_blue/cover.jpg)
+
+Understand the physical world and how to model it. 
 
 ###Science Fiction:
 Jurassic Park
 
 ![img](http://ecx.images-amazon.com/images/I/51KDF4N3J5L.jpg) 
 
+Mathematician [Ian Malcolm's](http://en.wikipedia.org/wiki/Heinz_Pagels) journey into discovering the lost world of our genetic past. 
+
 A Sound Of Thunder
 
 ![img](https://p.gr-assets.com/200x200/scale/books/1348517197/2242187.jpg)
 Contact
 
+Is the world deterministic events or chaotic noise? How much does our past reflect future?
+
 ![img](http://ecx.images-amazon.com/images/I/41GIMdnaHXL._SY344_BO1,204,203,200_.jpg)
+
+The social study on the impact of a message from space and its implications for humanity.
 
 A Scanner Darkly
 
 ![img](http://ecx.images-amazon.com/images/I/41BYZWKm6oL.jpg)
 
+The threat of totalitarian state in a drug induced society and becoming lost within the realities of ones own mind.
+
 Behold The Man
 
 ![img](http://ecx.images-amazon.com/images/I/51WUViX6clL.jpg)
+
+A man travels back in time to confront his religious past, but finds out the frighting truth of this time, and deterministically sets out to correct it, thus prophesied his own fate. 
 
 Replay
 
 ![img](http://ecx.images-amazon.com/images/I/51UULPa99dL._SY344_BO1,204,203,200_.jpg)
 
+What if you could relive your life over, over, over, over, over, over, over, over, over, over, over, over, over, over, over, over, over, over, over, over ...
+
 Colossus
 
 ![img](http://d.gr-assets.com/books/1254074903l/1797953.jpg)
 
+An artificial intelligence convinces a group of scientist to [build a bigger one](https://www.youtube.com/watch?v=4CC60HJvZRE) to combat the impending threat of an approaching threat from space.
 

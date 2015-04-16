@@ -275,7 +275,7 @@ The Mathematics of Gambling
 
 ![img](http://ecx.images-amazon.com/images/I/51SWReXlBFL._SY344_BO1,204,203,200_.jpg)
 
-The mathematics behind gambling systems and expected outcomes to win. 
+The mathematics behind gambling systems and increasing your expected outcome to win. 
 
 Beat The Dealer
 
@@ -287,7 +287,7 @@ Beat The Market
 
 ![img](http://pixhst.com/avaxhome/2008-06-10/d40e793509a0ce998ae77110.L.jpg_.jpg)
 
-An example of basic strategy within market trading.  
+An example of basic strategy within the market.  
 
 ###Science: 
 
@@ -295,7 +295,7 @@ The Cosmic Code
 
 ![img](http://ecx.images-amazon.com/images/I/412PKYiWePL._SY344_BO1,204,203,200_.jpg)
 
-The new paradigm shift within 20th century science and dawn of understanding the indeterministic system of the quantum world.  
+The new paradigm shift within 20th century science and dawn of understanding the indeterminism within the quantum world.  
 
 Dreams of Reason 
 
@@ -337,7 +337,7 @@ Behold The Man
 
 ![img](http://ecx.images-amazon.com/images/I/51WUViX6clL.jpg)
 
-A man travels back in time to confront his religious past, but finds out the frighting truth of this time, and deterministically sets out to correct it, thus prophesied his own fate. 
+A man travels back in time to confront his religious past, but finds out the frighting truth of this time, and deterministically sets out to correct it, thus prophesies his own fate. 
 
 Replay
 
